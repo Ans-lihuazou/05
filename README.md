@@ -2,10 +2,10 @@
 
 ```
 import os
-
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
+
 assert tf.__version__.startswith('2')
 
 from tflite_model_maker import model_spec
