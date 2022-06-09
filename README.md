@@ -34,3 +34,5 @@ loss, accuracy = model.evaluate(test_data)
 
 model.export(export_dir='.')
 ```
+
+将生成的文件在实验3程序中运行
